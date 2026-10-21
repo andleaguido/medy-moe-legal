@@ -5,7 +5,7 @@ title: Privacy Policy – Medy Moe
 
 # Informativa sulla privacy
 
-**Medy Moe · Medy Moe's · Medy Moe del facilitatore** — Ultimo aggiornamento: 19 ottobre 2026
+**Medy Moe · Medy Moe's · Medy Moe del facilitatore** — Ultimo aggiornamento: 21 ottobre 2026
 
 > Questa informativa fa fede nella versione italiana. La versione inglese, più in basso, è offerta a titolo informativo.
 
@@ -177,7 +177,7 @@ I dati sono trattati dal titolare e dai fornitori tecnici necessari al servizio:
 - il **servizio di posta** che recapita email di servizio, esportazioni e segnalazioni;
 - **Expo** (650 Industries, Inc.) e, tramite Expo, **Apple** (APNs) e **Google** (FCM) per la consegna delle notifiche push;
 - gli **store** (Apple App Store, Google Play), che gestiscono l'abbonamento: Medy Moe non vede mai i dati di pagamento;
-- **Anthropic** (Anthropic Ireland Limited, per i servizi nell'Unione Europea), quando è attivo il risponditore automatico dell'assistenza: riceve solo l'oggetto e il testo visibile dei messaggi scritti a support@medymoe.com (al massimo 4.000 caratteri), senza indirizzo email, allegati o intestazioni, per proporre la risposta;
+- **Anthropic** (Anthropic Ireland Limited, per i servizi nell'Unione Europea), quando è attivo il risponditore automatico dell'assistenza: riceve solo l'oggetto e il testo visibile dei messaggi scritti a support@medymoe.com (al massimo 4.000 caratteri), senza indirizzo email, allegati o intestazioni, per proporre la risposta; i dati che Anthropic porta fuori dall'Unione viaggiano con le clausole contrattuali standard del suo accordo sul trattamento dei dati;
 - **GitHub** (GitHub, Inc.), che con GitHub Pages ospita le pagine di questa informativa e dei Termini: registra l'indirizzo IP di chi le apre, per sicurezza;
 - **Netlify** (Netlify, Inc.), che ospita il sito medymoe.com: riceve l'indirizzo IP di chi lo visita, per mostrargli le pagine.
 
@@ -212,7 +212,7 @@ Le modifiche vengono pubblicate su questa pagina con la data di aggiornamento. P
 
 # Privacy Policy (English)
 
-**Medy Moe · Medy Moe's · Medy Moe del facilitatore** — Last updated: October 19, 2026
+**Medy Moe · Medy Moe's · Medy Moe del facilitatore** — Last updated: October 21, 2026
 
 > The Italian version of this policy is the binding one. This English version is provided for information only.
 
@@ -384,7 +384,7 @@ Data is processed by the controller and by the technical providers the service n
 - the **email service** delivering service emails, exports and reports;
 - **Expo** (650 Industries, Inc.) and, through Expo, **Apple** (APNs) and **Google** (FCM) for push delivery;
 - the **stores** (Apple App Store, Google Play), which manage the subscription: Medy Moe never sees payment data;
-- **Anthropic** (Anthropic Ireland Limited, for services in the European Union), when the automatic support responder is active: it receives only the subject and visible text of messages written to support@medymoe.com (at most 4,000 characters), without email address, attachments or headers, to suggest the reply;
+- **Anthropic** (Anthropic Ireland Limited, for services in the European Union), when the automatic support responder is active: it receives only the subject and visible text of messages written to support@medymoe.com (at most 4,000 characters), without email address, attachments or headers, to suggest the reply; data that Anthropic transfers outside the Union travel under the standard contractual clauses of its data processing agreement;
 - **GitHub** (GitHub, Inc.), which hosts the pages of this policy and of the Terms on GitHub Pages: it logs the IP address of whoever opens them, for security;
 - **Netlify** (Netlify, Inc.), which hosts the website medymoe.com: it receives the IP address of visitors, to serve them the pages.
 
